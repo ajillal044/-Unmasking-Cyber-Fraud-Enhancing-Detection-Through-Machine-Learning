@@ -1,13 +1,10 @@
-# <p align="center"> Fraud Detection System using Machine Learning </p>
+# <p align="center"> Unmasking Cyber Fraud: Enhancing Detection Through Machine Learning </p>
 # <p align="center">![image](https://vitbhopal.ac.in/file/2022/04/Cyber-Security2.jpg)
 </p>
 
 ## Overview
 
-This project aims to develop a machine learning-based system for detecting fraud in cyber security transactions. The system utilizes 
-various supervised and unsupervised learning techniques to analyze transactional data and identify potentially fraudulent activities.
-By employing advanced algorithms, the system can adapt to evolving fraud patterns and provide accurate predictions in real-time.
-
+This project focuses on creating a smart system using machine learning to spot fraudulent activities in cyber transactions. It works by analyzing lots of transaction data to find any strange or suspicious behavior. It uses different types of learning techniques to do this, some where it learns from examples (supervised learning) and others where it learns to find patterns on its own (unsupervised learning). The cool thing about this system is that it's always learning and getting better at catching new kinds of fraud. It does all this really quickly, so it can give warnings about possible fraud almost instantly. This helps keep people's online transactions safe by quickly spotting and stopping any shady activity.
 **Tools:-** Excel,Python
 
 [Datasets Used](https://docs.google.com/spreadsheets/d/1Yp_rcOS2TbVn-wHUIsCeCzkeDP7MIPLP/edit?usp=sharing&ouid=102868121048017441192&rtpof=true&sd=true )
