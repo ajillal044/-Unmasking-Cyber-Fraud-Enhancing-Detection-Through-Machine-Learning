@@ -1,5 +1,5 @@
 # <p align="center"> Fraud Detection System using Machine Learning </p>
-# <p align="center">![image](https://github.com/AhamedSahil/CYBER-SECURITY-/assets/164605797/2c615903-036b-4e86-b6be-f918ef538681)
+# <p align="center">![image](https://vitbhopal.ac.in/file/2022/04/Cyber-Security2.jpg)
 </p>
 
 ## Overview
